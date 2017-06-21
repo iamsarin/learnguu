@@ -13,3 +13,21 @@
   float: left;
   border-bottom-width: 0;
 }
+
+.circle-text-center {
+  text-align: center;
+  height: 150px;
+  width: 150px;
+  margin: 10px auto;
+  vertical-align: middle;
+  /*border: 2px cornflowerblue solid;*/
+  border: 2px #337ab7 solid;
+  border-radius: 50%;
+}
+
+.bg-theme {
+  /*background-color: cornflowerblue;*/
+  background-color: #337ab7;
+  font-weight: 700;
+  color: white;
+}
